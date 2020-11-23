@@ -1,0 +1,71 @@
+blogs = [
+  {
+    id: "822018560899790274",
+    name: "advent2020",
+    text: "Cale spre inima ta",
+    subtext: "Advent 2020",
+    uri:
+      "https://1.bp.blogspot.com/-c80UxdKPSkk/XlWG2VIJ5FI/AAAAAAAAHQo/vLHXGWVtfFMHPxRzUn8RC_L48uWkWfy9wCLcBGAsYHQ/s1600/DSC_0545.jpg",
+    introducere: {
+      linkPhoto:
+        "https://1.bp.blogspot.com/-c80UxdKPSkk/XlWG2VIJ5FI/AAAAAAAAHQo/vLHXGWVtfFMHPxRzUn8RC_L48uWkWfy9wCLcBGAsYHQ/s1600/DSC_0545.jpg",
+      TitluCeAparePePoza: "Lumină din lumină",
+      autor: " Pr. Felix Roca, Asistent spiritual general",
+      title: "Lumină din lumină",
+      introducere: "Dragă tânără, Dragă tânăr,",
+      introducere1:
+        "Îți propunem și anul acesta să parcurgem împreună drumul Postului Mare. Ca tineri din Acțiunea Catolică dorim să trăim în profunzime timpul sfânt care ne îndreaptă spre celebrarea Paștelui. Te invităm și pe tine să te alături și, împreună, să dăm atenție sufletului, să ne debarasăm de ceea ce ne împovărează inutil și să ne bucurăm mai mult de prezența lui Cristos.",
+      introducere2:
+        "Acest itinerar dorește să te ajute să descoperi în fiecare zi că „Lumina răsare pe cruce”. Ești chemat să fii sarea pământului și lumina lumii, însă nu ești tu izvorul luminii. Lumina vine de la Cristos care pe cruce își jertfește viața pentru ca existența ta să strălucească de prezența lui Dumnezeu. Lumina străpunge mormântul în care este depus Cristos pentru că dorește să ajungă la inima ta și să o învăluie.",
+      introducere3:
+        "Pornește la drumul spiritual al Postului Mare pentru a descoperi lumina care răsare pe cruce și pentru a deveni tu însuți lumină din lumină!"
+    }
+  },
+  {
+    id: "6029316546573190486",
+    name: "postuMare2020",
+    text: "Lumina răsare pe cruce",
+    subtext: "Postul Mare 2020",
+    uri:
+      "https://1.bp.blogspot.com/-c80UxdKPSkk/XlWG2VIJ5FI/AAAAAAAAHQo/vLHXGWVtfFMHPxRzUn8RC_L48uWkWfy9wCLcBGAsYHQ/s1600/DSC_0545.jpg",
+    introducere: {
+      linkPhoto:
+        "https://1.bp.blogspot.com/-c80UxdKPSkk/XlWG2VIJ5FI/AAAAAAAAHQo/vLHXGWVtfFMHPxRzUn8RC_L48uWkWfy9wCLcBGAsYHQ/s1600/DSC_0545.jpg",
+      TitluCeAparePePoza: "Lumină din lumină",
+      autor: " Pr. Felix Roca, Asistent spiritual general",
+      title: "Lumină din lumină",
+      introducere: "Dragă tânără, Dragă tânăr,",
+      introducere1:
+        "Îți propunem și anul acesta să parcurgem împreună drumul Postului Mare. Ca tineri din Acțiunea Catolică dorim să trăim în profunzime timpul sfânt care ne îndreaptă spre celebrarea Paștelui. Te invităm și pe tine să te alături și, împreună, să dăm atenție sufletului, să ne debarasăm de ceea ce ne împovărează inutil și să ne bucurăm mai mult de prezența lui Cristos.",
+      introducere2:
+        "Acest itinerar dorește să te ajute să descoperi în fiecare zi că „Lumina răsare pe cruce”. Ești chemat să fii sarea pământului și lumina lumii, însă nu ești tu izvorul luminii. Lumina vine de la Cristos care pe cruce își jertfește viața pentru ca existența ta să strălucească de prezența lui Dumnezeu. Lumina străpunge mormântul în care este depus Cristos pentru că dorește să ajungă la inima ta și să o învăluie.",
+      introducere3:
+        "Pornește la drumul spiritual al Postului Mare pentru a descoperi lumina care răsare pe cruce și pentru a deveni tu însuți lumină din lumină!"
+    }
+  },
+  {
+    id: "5685606213256659597",
+    name: "advent2019",
+    text: "Refugiul sufletului în iubire",
+    subtext: "Advent 2019",
+    uri:
+      "https://1.bp.blogspot.com/-dhdJL0tIS74/Xd7MooSZGZI/AAAAAAAAHEQ/TK40zTg_j4sA64BooGFUNO5OeR0QV-Y8QCLcBGAsYHQ/s320/pexels-photo-1209843.jpeg",
+    introducere: {
+      linkPhoto:
+        "https://1.bp.blogspot.com/-dhdJL0tIS74/Xd7MooSZGZI/AAAAAAAAHEQ/TK40zTg_j4sA64BooGFUNO5OeR0QV-Y8QCLcBGAsYHQ/s320/pexels-photo-1209843.jpeg",
+      TitluCeAparePePoza: "Ochi, culoare, suflet",
+      autor: " Pr. Felix Roca, Asistent spiritual general",
+      title: "Ochi, culoare, suflet",
+      introducere:
+        "Parcurgem un nou drum de pregătire pentru marea sărbătoare a Nașterii Domnului. Adventul este timpul potrivit pentru a oferi sufletului nostru ceea ce are nevoie pentru ca la Crăciun, înnobilat, să îl primească pe Mântuitorul și să se lase înălțat de prezența sa.",
+      introducere1:
+        "„Refugiul sufletului în iubire” este titlul acestui itinerar spiritual propus de către Acțiunea Catolică tuturor tinerilor care nu vor să se trezească peste ei cu avalanșa urărilor de Crăciun fără să fi apucat să facă în așa fel încât măcar puțin sufletul să vibreze la prezența lui Cristos. Pentru ca să ajungi la Crăciun cu un nou spirit lasă ochii tăi să contemple ceea ce este minunat în jurul tău. Sunt omeni frumoși, sunt locuri minunate, sunt evenimente bogate în semnificații, sunt ocazii deosebite de a face binele, sunt momente de creștere… Spune cu Fecioara Maria: „Sufletul meu îl preamărește pe Domnul”!",
+      introducere1:
+        "Curcubeul binelui are tonalități infinite care revarsă culoare în viața ta. Energie, creativitate, libertate, imaginație etc., toate acestea fac ca viața ta să fie plină de culoare, așa cum a devenit viața Fecioarei Maria atunci când i-a spus „da” lui Dumnezeu! Răul este mereu monocromatic, apăsător și producător de tristețe. Papa Francisc te îndeamnă în Christus Vivit: „Îndrăznește să fii mai mult, pentru că ființa ta este mai importantă decât orice alt lucru. Nu ai nevoie să posezi sau să apari. Poți ajunge să fii ceea ce Dumnezeu, Creatorul tău, știe că tu ești, dacă recunoști că ești chemat la mai mult.” De aceea, mai degrabă gândește-te să faci binele, decât să te simți bine și vei vedea că vei ajunge să te simți împlinit!",
+      introducere3:
+        "Nu trebuie să îți vinzi sufletul pentru a fi fericit! Din păcate, pe străzile existenței zilnice se scoate la vânzare demnitatea, respectul, intimitatea, coerența, cinstea, prietenia etc. Nu lăsa ca sufletul tău să rătăcească în felul acesta, ci oferă-i posibilitatea să se odihnească în iubire, așa cum a făcut Iosif, care a aluat-o la sine pe Maria pentru a se pregăti împreună să îl primească pe Isus!",
+      introducere4:
+        "Ochi, culoare, suflet pentru ca Pruncul Isus să găsescă loc cald în viața ta!"
+    }
+  }
+];
